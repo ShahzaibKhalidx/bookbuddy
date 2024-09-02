@@ -235,7 +235,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -243,7 +243,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -251,7 +251,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -261,7 +261,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/script.js",
         "name": "*",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -269,7 +269,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/script.js",
         "name": "",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -277,7 +277,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/script.js",
         "name": "default",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -285,7 +285,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/script.js",
         "name": "handleClientScriptLoad",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -293,7 +293,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/script.js",
         "name": "initScriptLoader",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -303,7 +303,7 @@
         "id": "(sc_client)/./src/components/Common/Loader.jsx",
         "name": "*",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -311,7 +311,7 @@
         "id": "(sc_client)/./src/components/Common/Loader.jsx",
         "name": "",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -319,7 +319,7 @@
         "id": "(sc_client)/./src/components/Common/Loader.jsx",
         "name": "default",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -329,7 +329,7 @@
         "id": "(sc_client)/./src/components/Common/MouseCursor.jsx",
         "name": "*",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -337,7 +337,7 @@
         "id": "(sc_client)/./src/components/Common/MouseCursor.jsx",
         "name": "",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -345,7 +345,7 @@
         "id": "(sc_client)/./src/components/Common/MouseCursor.jsx",
         "name": "default",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -355,7 +355,7 @@
         "id": "(sc_client)/./src/components/Common/ScrollToTop.jsx",
         "name": "*",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -363,7 +363,7 @@
         "id": "(sc_client)/./src/components/Common/ScrollToTop.jsx",
         "name": "",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -371,7 +371,7 @@
         "id": "(sc_client)/./src/components/Common/ScrollToTop.jsx",
         "name": "default",
         "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -381,7 +381,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Clients.jsx",
         "name": "*",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -389,7 +389,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Clients.jsx",
         "name": "",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -397,7 +397,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Clients.jsx",
         "name": "default",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -407,7 +407,7 @@
         "id": "(sc_client)/./src/components/TechLanding/FAQ.jsx",
         "name": "*",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -415,7 +415,7 @@
         "id": "(sc_client)/./src/components/TechLanding/FAQ.jsx",
         "name": "",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -423,7 +423,7 @@
         "id": "(sc_client)/./src/components/TechLanding/FAQ.jsx",
         "name": "default",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -433,7 +433,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Portfolio.jsx",
         "name": "*",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -441,7 +441,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Portfolio.jsx",
         "name": "",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -449,7 +449,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Portfolio.jsx",
         "name": "default",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -459,7 +459,7 @@
         "id": "(sc_client)/./src/components/TechLanding/ServicesSlider.jsx",
         "name": "*",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -467,7 +467,7 @@
         "id": "(sc_client)/./src/components/TechLanding/ServicesSlider.jsx",
         "name": "",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -475,7 +475,7 @@
         "id": "(sc_client)/./src/components/TechLanding/ServicesSlider.jsx",
         "name": "default",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -485,7 +485,7 @@
         "id": "(sc_client)/./src/components/TechLanding/SideMenu.jsx",
         "name": "*",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -493,7 +493,7 @@
         "id": "(sc_client)/./src/components/TechLanding/SideMenu.jsx",
         "name": "",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -501,7 +501,7 @@
         "id": "(sc_client)/./src/components/TechLanding/SideMenu.jsx",
         "name": "default",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -511,7 +511,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Testimonials.jsx",
         "name": "*",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -519,7 +519,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Testimonials.jsx",
         "name": "",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -527,7 +527,7 @@
         "id": "(sc_client)/./src/components/TechLanding/Testimonials.jsx",
         "name": "default",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -537,7 +537,7 @@
         "id": "(sc_client)/./src/components/TechLanding/TopNavbar.jsx",
         "name": "*",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -545,7 +545,7 @@
         "id": "(sc_client)/./src/components/TechLanding/TopNavbar.jsx",
         "name": "",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -553,449 +553,7 @@
         "id": "(sc_client)/./src/components/TechLanding/TopNavbar.jsx",
         "name": "default",
         "chunks": [
-          "app/home-10/page:static/chunks/app/home-10/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/ModernStartup/About.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/ModernStartup/About.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/ModernStartup/About.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/ModernStartup/About.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/ModernStartup/Header.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/ModernStartup/Header.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/ModernStartup/Header.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/ModernStartup/Header.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/ModernStartup/Projects.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/ModernStartup/Projects.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/ModernStartup/Projects.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/ModernStartup/Projects.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/ModernStartup/Testimonials.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/ModernStartup/Testimonials.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/ModernStartup/Testimonials.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/ModernStartup/Testimonials.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-3/page:static/chunks/app/home-3/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/CreativeStudio/Header.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/CreativeStudio/Header.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/CreativeStudio/Header.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/CreativeStudio/Header.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/CreativeStudio/Testimonials.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/CreativeStudio/Testimonials.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/CreativeStudio/Testimonials.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/CreativeStudio/Testimonials.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/CreativeStudio/TextSliders.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/CreativeStudio/TextSliders.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/CreativeStudio/TextSliders.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/CreativeStudio/TextSliders.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-2/page:static/chunks/app/home-2/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/ShopHome/Partners.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/ShopHome/Partners.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/ShopHome/Partners.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/ShopHome/Partners.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/ShopHome/ServicesSlider.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/ShopHome/ServicesSlider.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/ShopHome/ServicesSlider.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/ShopHome/ServicesSlider.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/ShopHome/Testimonials.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/ShopHome/Testimonials.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/ShopHome/Testimonials.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/ShopHome/Testimonials.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-9/page:static/chunks/app/home-9/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/AgencyPortfolio/Awards.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Awards.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Awards.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Awards.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/AgencyPortfolio/Navbar.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Navbar.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Navbar.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Navbar.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/AgencyPortfolio/Partners.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Partners.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Partners.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Partners.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/AgencyPortfolio/SideMenu.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/SideMenu.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/SideMenu.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/SideMenu.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/AgencyPortfolio/Testimonials.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Testimonials.jsx",
-        "name": "*",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Testimonials.jsx",
-        "name": "",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/AgencyPortfolio/Testimonials.jsx",
-        "name": "default",
-        "chunks": [
-          "app/home-1/page:static/chunks/app/home-1/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/InnerPages/Services/Testimonials.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/InnerPages/Services/Testimonials.jsx",
-        "name": "*",
-        "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/InnerPages/Services/Testimonials.jsx",
-        "name": "",
-        "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/InnerPages/Services/Testimonials.jsx",
-        "name": "default",
-        "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/InnerPages/Services/Video.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/InnerPages/Services/Video.jsx",
-        "name": "*",
-        "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/InnerPages/Services/Video.jsx",
-        "name": "",
-        "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/InnerPages/Services/Video.jsx",
-        "name": "default",
-        "chunks": [
-          "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -1680,6 +1238,374 @@
       ],
       "async": false
     },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js#handleClientScriptLoad": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "handleClientScriptLoad",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js#handleClientScriptLoad": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "handleClientScriptLoad",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js#initScriptLoader": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "initScriptLoader",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js#initScriptLoader": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "initScriptLoader",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\Loader.jsx": {
+      "id": "(app-client)/./src/components/Common/Loader.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\Loader.jsx#": {
+      "id": "(app-client)/./src/components/Common/Loader.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\Loader.jsx#default": {
+      "id": "(app-client)/./src/components/Common/Loader.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\MouseCursor.jsx": {
+      "id": "(app-client)/./src/components/Common/MouseCursor.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\MouseCursor.jsx#": {
+      "id": "(app-client)/./src/components/Common/MouseCursor.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\MouseCursor.jsx#default": {
+      "id": "(app-client)/./src/components/Common/MouseCursor.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\ScrollToTop.jsx": {
+      "id": "(app-client)/./src/components/Common/ScrollToTop.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\ScrollToTop.jsx#": {
+      "id": "(app-client)/./src/components/Common/ScrollToTop.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\ScrollToTop.jsx#default": {
+      "id": "(app-client)/./src/components/Common/ScrollToTop.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Clients.jsx": {
+      "id": "(app-client)/./src/components/TechLanding/Clients.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Clients.jsx#": {
+      "id": "(app-client)/./src/components/TechLanding/Clients.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Clients.jsx#default": {
+      "id": "(app-client)/./src/components/TechLanding/Clients.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\FAQ.jsx": {
+      "id": "(app-client)/./src/components/TechLanding/FAQ.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\FAQ.jsx#": {
+      "id": "(app-client)/./src/components/TechLanding/FAQ.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\FAQ.jsx#default": {
+      "id": "(app-client)/./src/components/TechLanding/FAQ.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Portfolio.jsx": {
+      "id": "(app-client)/./src/components/TechLanding/Portfolio.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Portfolio.jsx#": {
+      "id": "(app-client)/./src/components/TechLanding/Portfolio.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Portfolio.jsx#default": {
+      "id": "(app-client)/./src/components/TechLanding/Portfolio.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\ServicesSlider.jsx": {
+      "id": "(app-client)/./src/components/TechLanding/ServicesSlider.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\ServicesSlider.jsx#": {
+      "id": "(app-client)/./src/components/TechLanding/ServicesSlider.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\ServicesSlider.jsx#default": {
+      "id": "(app-client)/./src/components/TechLanding/ServicesSlider.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\SideMenu.jsx": {
+      "id": "(app-client)/./src/components/TechLanding/SideMenu.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\SideMenu.jsx#": {
+      "id": "(app-client)/./src/components/TechLanding/SideMenu.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\SideMenu.jsx#default": {
+      "id": "(app-client)/./src/components/TechLanding/SideMenu.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Testimonials.jsx": {
+      "id": "(app-client)/./src/components/TechLanding/Testimonials.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Testimonials.jsx#": {
+      "id": "(app-client)/./src/components/TechLanding/Testimonials.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Testimonials.jsx#default": {
+      "id": "(app-client)/./src/components/TechLanding/Testimonials.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\TopNavbar.jsx": {
+      "id": "(app-client)/./src/components/TechLanding/TopNavbar.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\TopNavbar.jsx#": {
+      "id": "(app-client)/./src/components/TechLanding/TopNavbar.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\TopNavbar.jsx#default": {
+      "id": "(app-client)/./src/components/TechLanding/TopNavbar.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\lightgallery\\css\\lightgallery.css#": {
       "id": "null",
       "name": "default",
@@ -1700,782 +1626,6 @@
       "chunks": [
         "static/css/app/layout.css"
       ]
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js#handleClientScriptLoad": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "handleClientScriptLoad",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js#handleClientScriptLoad": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "handleClientScriptLoad",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\client\\script.js#initScriptLoader": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "initScriptLoader",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\node_modules\\next\\dist\\esm\\client\\script.js#initScriptLoader": {
-      "id": "(app-client)/./node_modules/next/dist/client/script.js",
-      "name": "initScriptLoader",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\Loader.jsx": {
-      "id": "(app-client)/./src/components/Common/Loader.jsx",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\Loader.jsx#": {
-      "id": "(app-client)/./src/components/Common/Loader.jsx",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\Loader.jsx#default": {
-      "id": "(app-client)/./src/components/Common/Loader.jsx",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\MouseCursor.jsx": {
-      "id": "(app-client)/./src/components/Common/MouseCursor.jsx",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\MouseCursor.jsx#": {
-      "id": "(app-client)/./src/components/Common/MouseCursor.jsx",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\MouseCursor.jsx#default": {
-      "id": "(app-client)/./src/components/Common/MouseCursor.jsx",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\ScrollToTop.jsx": {
-      "id": "(app-client)/./src/components/Common/ScrollToTop.jsx",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\ScrollToTop.jsx#": {
-      "id": "(app-client)/./src/components/Common/ScrollToTop.jsx",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\Common\\ScrollToTop.jsx#default": {
-      "id": "(app-client)/./src/components/Common/ScrollToTop.jsx",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Clients.jsx": {
-      "id": "(app-client)/./src/components/TechLanding/Clients.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Clients.jsx#": {
-      "id": "(app-client)/./src/components/TechLanding/Clients.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Clients.jsx#default": {
-      "id": "(app-client)/./src/components/TechLanding/Clients.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\FAQ.jsx": {
-      "id": "(app-client)/./src/components/TechLanding/FAQ.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\FAQ.jsx#": {
-      "id": "(app-client)/./src/components/TechLanding/FAQ.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\FAQ.jsx#default": {
-      "id": "(app-client)/./src/components/TechLanding/FAQ.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Portfolio.jsx": {
-      "id": "(app-client)/./src/components/TechLanding/Portfolio.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Portfolio.jsx#": {
-      "id": "(app-client)/./src/components/TechLanding/Portfolio.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Portfolio.jsx#default": {
-      "id": "(app-client)/./src/components/TechLanding/Portfolio.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\ServicesSlider.jsx": {
-      "id": "(app-client)/./src/components/TechLanding/ServicesSlider.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\ServicesSlider.jsx#": {
-      "id": "(app-client)/./src/components/TechLanding/ServicesSlider.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\ServicesSlider.jsx#default": {
-      "id": "(app-client)/./src/components/TechLanding/ServicesSlider.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\SideMenu.jsx": {
-      "id": "(app-client)/./src/components/TechLanding/SideMenu.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\SideMenu.jsx#": {
-      "id": "(app-client)/./src/components/TechLanding/SideMenu.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\SideMenu.jsx#default": {
-      "id": "(app-client)/./src/components/TechLanding/SideMenu.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Testimonials.jsx": {
-      "id": "(app-client)/./src/components/TechLanding/Testimonials.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Testimonials.jsx#": {
-      "id": "(app-client)/./src/components/TechLanding/Testimonials.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\Testimonials.jsx#default": {
-      "id": "(app-client)/./src/components/TechLanding/Testimonials.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\TopNavbar.jsx": {
-      "id": "(app-client)/./src/components/TechLanding/TopNavbar.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\TopNavbar.jsx#": {
-      "id": "(app-client)/./src/components/TechLanding/TopNavbar.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\TechLanding\\TopNavbar.jsx#default": {
-      "id": "(app-client)/./src/components/TechLanding/TopNavbar.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-10/page:static/chunks/app/home-10/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\About.jsx": {
-      "id": "(app-client)/./src/components/ModernStartup/About.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\About.jsx#": {
-      "id": "(app-client)/./src/components/ModernStartup/About.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\About.jsx#default": {
-      "id": "(app-client)/./src/components/ModernStartup/About.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Header.jsx": {
-      "id": "(app-client)/./src/components/ModernStartup/Header.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Header.jsx#": {
-      "id": "(app-client)/./src/components/ModernStartup/Header.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Header.jsx#default": {
-      "id": "(app-client)/./src/components/ModernStartup/Header.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Projects.jsx": {
-      "id": "(app-client)/./src/components/ModernStartup/Projects.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Projects.jsx#": {
-      "id": "(app-client)/./src/components/ModernStartup/Projects.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Projects.jsx#default": {
-      "id": "(app-client)/./src/components/ModernStartup/Projects.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Testimonials.jsx": {
-      "id": "(app-client)/./src/components/ModernStartup/Testimonials.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Testimonials.jsx#": {
-      "id": "(app-client)/./src/components/ModernStartup/Testimonials.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ModernStartup\\Testimonials.jsx#default": {
-      "id": "(app-client)/./src/components/ModernStartup/Testimonials.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-3/page:static/chunks/app/home-3/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\Header.jsx": {
-      "id": "(app-client)/./src/components/CreativeStudio/Header.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\Header.jsx#": {
-      "id": "(app-client)/./src/components/CreativeStudio/Header.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\Header.jsx#default": {
-      "id": "(app-client)/./src/components/CreativeStudio/Header.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\Testimonials.jsx": {
-      "id": "(app-client)/./src/components/CreativeStudio/Testimonials.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\Testimonials.jsx#": {
-      "id": "(app-client)/./src/components/CreativeStudio/Testimonials.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\Testimonials.jsx#default": {
-      "id": "(app-client)/./src/components/CreativeStudio/Testimonials.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\TextSliders.jsx": {
-      "id": "(app-client)/./src/components/CreativeStudio/TextSliders.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\TextSliders.jsx#": {
-      "id": "(app-client)/./src/components/CreativeStudio/TextSliders.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\CreativeStudio\\TextSliders.jsx#default": {
-      "id": "(app-client)/./src/components/CreativeStudio/TextSliders.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-2/page:static/chunks/app/home-2/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\Partners.jsx": {
-      "id": "(app-client)/./src/components/ShopHome/Partners.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\Partners.jsx#": {
-      "id": "(app-client)/./src/components/ShopHome/Partners.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\Partners.jsx#default": {
-      "id": "(app-client)/./src/components/ShopHome/Partners.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\ServicesSlider.jsx": {
-      "id": "(app-client)/./src/components/ShopHome/ServicesSlider.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\ServicesSlider.jsx#": {
-      "id": "(app-client)/./src/components/ShopHome/ServicesSlider.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\ServicesSlider.jsx#default": {
-      "id": "(app-client)/./src/components/ShopHome/ServicesSlider.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\Testimonials.jsx": {
-      "id": "(app-client)/./src/components/ShopHome/Testimonials.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\Testimonials.jsx#": {
-      "id": "(app-client)/./src/components/ShopHome/Testimonials.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\ShopHome\\Testimonials.jsx#default": {
-      "id": "(app-client)/./src/components/ShopHome/Testimonials.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-9/page:static/chunks/app/home-9/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Awards.jsx": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Awards.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Awards.jsx#": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Awards.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Awards.jsx#default": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Awards.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Navbar.jsx": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Navbar.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Navbar.jsx#": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Navbar.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Navbar.jsx#default": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Navbar.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Partners.jsx": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Partners.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Partners.jsx#": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Partners.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Partners.jsx#default": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Partners.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\SideMenu.jsx": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/SideMenu.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\SideMenu.jsx#": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/SideMenu.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\SideMenu.jsx#default": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/SideMenu.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Testimonials.jsx": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Testimonials.jsx",
-      "name": "*",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Testimonials.jsx#": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Testimonials.jsx",
-      "name": "",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\AgencyPortfolio\\Testimonials.jsx#default": {
-      "id": "(app-client)/./src/components/AgencyPortfolio/Testimonials.jsx",
-      "name": "default",
-      "chunks": [
-        "app/home-1/page:static/chunks/app/home-1/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\InnerPages\\Services\\Testimonials.jsx": {
-      "id": "(app-client)/./src/components/InnerPages/Services/Testimonials.jsx",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\InnerPages\\Services\\Testimonials.jsx#": {
-      "id": "(app-client)/./src/components/InnerPages/Services/Testimonials.jsx",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\InnerPages\\Services\\Testimonials.jsx#default": {
-      "id": "(app-client)/./src/components/InnerPages/Services/Testimonials.jsx",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\InnerPages\\Services\\Video.jsx": {
-      "id": "(app-client)/./src/components/InnerPages/Services/Video.jsx",
-      "name": "*",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\InnerPages\\Services\\Video.jsx#": {
-      "id": "(app-client)/./src/components/InnerPages/Services/Video.jsx",
-      "name": "",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Shahzaib\\Desktop\\bookbuddy\\src\\components\\InnerPages\\Services\\Video.jsx#default": {
-      "id": "(app-client)/./src/components/InnerPages/Services/Video.jsx",
-      "name": "default",
-      "chunks": [
-        "app/inner_pages/page_services/page:static/chunks/app/inner_pages/page_services/page.js"
-      ],
-      "async": false
     }
   }
 }

@@ -11,7 +11,7 @@ function Header() {
           <div className="row align-items-end gx-0">
             <div className="col-lg-6">
               <div className="info">
-                <h1 className="animation__char_come"> Read, Learn <br /> Progress & Self Actualize </h1>
+                <h1 className="animation__char_come"> Mission <br /> Read Pakistan </h1>
                 <div className="btm-inf d-flex align-items-center">
                   <a href="#" className="butn-shadow me-30"> Our Services </a>
                   <a href="#" className="color-999 fw-bold"> Call Us. <span className="color-000"> +92 888 999 00 </span> </a>

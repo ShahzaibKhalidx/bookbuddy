@@ -11,7 +11,7 @@ function TopNavbar() {
   return (
     <div className="top-nav">
       <div className="logo">
-        <img src="/home_10/assets/img/logo.png" alt="" className="lt_item" />
+        <img src="/home_10/assets/img/logo.png" alt="" className="lt_item" width={'220px'}/>
         <img src="/home_10/assets/img/logo_wh.png" alt="" className="dr_item" />
       </div>
       <div className="target btn_wrapper">
